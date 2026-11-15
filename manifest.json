@@ -1,0 +1,20 @@
+{
+  "name": "بصيرة - Your Eyes Are Your Safety",
+  "short_name": "بصيرة",
+  "description": "مساعد بصري تجريبي",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071b2c",
+  "theme_color": "#071b2c",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
